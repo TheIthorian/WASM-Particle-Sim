@@ -8,7 +8,7 @@ An example of a wasm project using https://rustwasm.github.io/docs/book/print.ht
 
 1. Clone this project
     ```sh
-    git clone --
+    git clone https://github.com/TheIthorian/WASM-Particle-Sim.git
     ```
 2. Install rust: https://www.rust-lang.org/tools/install
 3. Install wasm-pack: https://rustwasm.github.io/wasm-pack/installer/
